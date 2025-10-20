@@ -1,0 +1,8 @@
+[app]
+package_name = "openssl"
+repo = "https://git.alpinelinux.org/aports"
+test_mode = false
+version = "1.1.1"
+output_image = "deps.svg"
+ascii_tree = true
+filter_substring = "test"
